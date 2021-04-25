@@ -25,3 +25,9 @@ Nowadays I primarily focus on the front-end and Full Stack, with a heavy focus o
 <img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" alt="Styled-Component Logo" width="50" height="50"/>&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB Logo" width="50" height="50"/>&nbsp;
 
+
+## &#x1f4c8; My GitHub Stats	
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmchaturvedi1&hide=java,html,css&theme=default)](https://github.com/gmchaturvedi1/github-readme-stats)	
+
+[![Gajendra's GitHub stats](https://github-readme-stats.vercel.app/api?username=gmchaturvedi1&theme=default)](https://github.com/gmchaturvedi1/github-readme-stats)	
