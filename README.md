@@ -7,11 +7,9 @@ I'm a software developer based in Ghaziabad, India with over 6 years of experien
 Nowadays I primarily focus on the front-end and Full Stack, with a heavy focus on Nodejs, React, React and React Native. I also like to play around with Python and Django, as well as Rust.
 
 
----
+<hr/>
 
 🧰 Toolbox
-
-
 
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/>&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript Logo" width="50" height="50"/>&nbsp;
@@ -26,7 +24,7 @@ Nowadays I primarily focus on the front-end and Full Stack, with a heavy focus o
 <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB Logo" width="50" height="50"/>&nbsp;
 
 
-
+<hr/>
 
 
 
