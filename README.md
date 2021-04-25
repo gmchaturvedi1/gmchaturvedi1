@@ -15,4 +15,13 @@ Nowadays I primarily focus on the front-end and Full Stack, with a heavy focus o
 
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/>&nbsp;
 <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript Logo" width="50" height="50"/>&nbsp;
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="Nodejs Logo" width="50" height="50"/>&nbsp;Changes
+<img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="Nodejs Logo" width="50" height="50"/>&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/graphql.svg" alt="Graphql Logo" width="50" height="50"/>&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"/>&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="Redux Logo" width="50" height="50"/>&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next JS Logo" width="50" height="50"/>&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="Material Ui Logo" width="50" height="50"/>&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/styled-components-1.svg" alt="Styled-Component Logo" width="50" height="50"/>&nbsp;
+<img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB Logo" width="50" height="50"/>&nbsp;
+
