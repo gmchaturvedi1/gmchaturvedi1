@@ -1,8 +1,8 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" />, I'm Bill!
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30" />, I'm Gajendra Nath Chaturvedi!
 
-[![GitHub followers](https://img.shields.io/github/followers/bill-pairaktaridis?style=social)](https://github.com/bill-pairaktaridis) [![Twitter Follow](https://img.shields.io/twitter/follow/Bill_Pair?style=social)](https://twitter.com/Bill_Pair) [![LinkedIn](https://img.shields.io/badge/-Find%20me%20on%20LinkedIn-%230A66C2?logo=linkedin)](https://www.linkedin.com/in/billpairaktaridis/)
+[![GitHub followers](https://img.shields.io/github/followers/bill-pairaktaridis?style=social)](https://github.com/gmchaturvedi1) [![Twitter Follow](https://img.shields.io/twitter/follow/gmchaturvedi?style=social)](https://twitter.com/gmchaturvedi) [![LinkedIn](https://img.shields.io/badge/-Find%20me%20on%20LinkedIn-%230A66C2?logo=linkedin)](https://www.linkedin.com/in/gajendra-chaturvedi-a9388718)
 
-I'm a software engineer based in Ghaziabad, India with over 6 years of experience. I've worked all ends of the stack, from back to front to back again! 
+I'm a software developer based in Ghaziabad, India with over 6 years of experience. I've worked all ends of the stack, from back to front to back again! 
 
 Nowadays I primarily focus on the front-end and Full Stack, with a heavy focus on Nodejs, React, React and React Native. I also like to play around with Python and Django, as well as Rust.
 
