@@ -15,7 +15,7 @@
 # 📊GitHub Stats :
 ### <h2 align="center">Contribution Graph📚</h2>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=larymak&theme=dracula&hide_border=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gmchaturvedi1&theme=dracula&hide_border=true)
 
 ## Stats summary📈
 
