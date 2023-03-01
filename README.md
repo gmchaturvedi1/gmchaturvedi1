@@ -1,4 +1,4 @@
-# Iman Tumorang &mdash; @bxcodec
+# Gajendra Chaturvedi &mdash; @bxcodec
 
 Hi! I'm Gajendra Chaturvedi!
 
@@ -12,4 +12,4 @@ Welcome to my Github Profile!
 
 
 ### 📮 Get In Touch!
-- Contact me through Email, Twitter, Instagram, LinkedIn in https://imantumorang.com
+- Contact me through Email, Twitter, Instagram, LinkedIn 
