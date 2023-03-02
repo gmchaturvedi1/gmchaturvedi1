@@ -1,4 +1,4 @@
-# Gajendra Chaturvedi &mdash; @bxcodec
+# Gajendra Chaturvedi &mdash; @gmchaturvedi1
 
 Hi! I'm Gajendra Chaturvedi!
 
