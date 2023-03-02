@@ -16,4 +16,4 @@ Welcome to my Github Profile!
 I'm always open and looking for any collaboration or founding startup, feel free to reach me out via :
 - Email : [gmchaturvedi@gmail.com](mailto:gmchaturvedi.dev@gmail.com)
 - LinkedIn : [Gajendra Chaturvedi](https://www.linkedin.com/in/gmchaturvedi/)
-- Twitter : [Gajendra Chaturvedi](https://www.facebook.com/gmchaturvedi/)
+- Twitter : [Gajendra Chaturvedi](https://www.twitter.com/gmchaturvedi/)
