@@ -8,7 +8,7 @@ Welcome to my Github Profile!
 ![github stats](https://github-readme-stats.vercel.app/api?username=gmchaturvedi1&show_icons=true)
 
 ### 📝 My Latest Blog Post in Medium
-![Pahlevikun's github stats](https://github-readme-stats.vercel.app/api?username=gmchaturvedi1&show_icons=true&line_height=21&show_icons=true&theme=nord)
+![Pahlevikun's github stats](https://github-readme-stats.vercel.app/api?username=gmchaturvedi1&show_icons=true&line_height=21&show_icons=true&theme=light)
 <span style="display:inline-block; width: 10px;"></span>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmchaturvedi1&show_icons=true&layout=compact&theme=nord&count_private=truecount_private=true)
 
