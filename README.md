@@ -11,7 +11,7 @@ Welcome to my Github Profile!
 
 ### 📝 My Latest Blog Post in Medium
 
-![Pahlevikun's blog](https://github-read-medium.vercel.app/latest?username=gajendranathchaturvedi&limit=6&theme=light)
+![Gajendra's blog](https://github-read-medium.vercel.app/latest?username=gajendranathchaturvedi&limit=6&theme=light)
 
 I'm always open and looking for any collaboration or founding startup, feel free to reach me out via :
 - Email : [gmchaturvedi@gmail.com](mailto:gmchaturvedi.dev@gmail.com)
