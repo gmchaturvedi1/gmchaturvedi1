@@ -7,7 +7,7 @@ Welcome to my Github Profile!
 ![Gajendra Chaturvedi github stats](https://github-readme-stats.vercel.app/api?username=gmchaturvedi1&show_icons=true&line_height=21&show_icons=true&theme=light)
 <span style="display:inline-block; width: 15px;"></span>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmchaturvedi1&show_icons=true&layout=compact&theme=light&count_private=truecount_private=true)
-![Gajendra's trophy](https://github-profile-trophy.vercel.app/?username=gmchaturvedi1&theme=light&column=7&margin-w=10&margin-h=15)
+
 
 ### 📝 My Latest Blog Post in Medium
 
